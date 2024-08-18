@@ -1,0 +1,11 @@
+pypng
+opencv-python
+opencv-contrib-python
+wheel
+matplotlib
+prettytable
+ptable
+numpy
+torch
+torchvision
+scikit-learn
