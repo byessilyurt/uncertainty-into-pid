@@ -2,7 +2,7 @@
 
 ## 📄 Publication
 
-This research has been published in Springer's Lecture Notes in Computer Science:
+This research has been published in 20th International Conference on Dependability of Computer Systems (DepCoS):
 
 **[Published Paper - Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-92734-8_24)**
 
